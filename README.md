@@ -1,4 +1,4 @@
-hiết kế cơ sở dữ liệu gồm 5 bảng: Artists, Artworks, Exhibitions, Users, GallerySales.
+Thiết kế cơ sở dữ liệu gồm 5 bảng: Artists, Artworks, Exhibitions, Users, GallerySales.
 
 Tạo dữ liệu mẫu minh họa gồm nghệ sĩ nổi tiếng (Leonardo da Vinci, Van Gogh...), tranh danh tiếng (Mona Lisa, Starry Night...) và các giao dịch giả lập.
 
